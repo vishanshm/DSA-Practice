@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vishanshm/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vishanshm/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vishanshm/DSA-Practice/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/vishanshm/DSA-Practice/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/vishanshm/DSA-Practice/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vishanshm/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vishanshm/DSA-Practice/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/vishanshm/DSA-Practice/tree/master/0051-n-queens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
