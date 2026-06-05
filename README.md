@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vishanshm/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vishanshm/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vishanshm/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/vishanshm/DSA-Practice/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/vishanshm/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vishanshm/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/vishanshm/DSA-Practice/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -58,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishanshm/DSA-Practice/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/vishanshm/DSA-Practice/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
