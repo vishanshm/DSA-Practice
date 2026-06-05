@@ -44,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vishanshm/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/vishanshm/DSA-Practice/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/vishanshm/DSA-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/vishanshm/DSA-Practice/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishanshm/DSA-Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/vishanshm/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/vishanshm/DSA-Practice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/vishanshm/DSA-Practice/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
