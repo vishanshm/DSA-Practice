@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishanshm/DSA-Practice/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/vishanshm/DSA-Practice/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/vishanshm/DSA-Practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/vishanshm/DSA-Practice/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishanshm/DSA-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vishanshm/DSA-Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/vishanshm/DSA-Practice/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vishanshm/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vishanshm/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vishanshm/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/vishanshm/DSA-Practice/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
