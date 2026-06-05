@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vishanshm/DSA-Practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vishanshm/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/vishanshm/DSA-Practice/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/vishanshm/DSA-Practice/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vishanshm/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/vishanshm/DSA-Practice/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/vishanshm/DSA-Practice/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/vishanshm/DSA-Practice/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishanshm/DSA-Practice/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/vishanshm/DSA-Practice/tree/master/0048-rotate-image) |
 ## Monotonic Stack
 |  |
 | ------- |
